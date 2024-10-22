@@ -102,7 +102,7 @@ MySQL database server is need.
 
 1. Clone the repo with game backend
    ```sh
-   git clone https://github.com/dominik-stec/BoardGame_backend_ExpressJS_PJA.git
+   git clone https://github.com/dominik-stec/BoardGame_backend_Express.git
    ```
 2. Install nodemon by use npm:
 
@@ -171,7 +171,7 @@ CREATE TABLE my_db_exit (
 Go to source file at:
 
 ```sh
-https://github.com/dominik-stec/BoardGame_backend_ExpressJS_PJA/blob/master/src/api/controllers/gameController.ts
+https://github.com/dominik-stec/BoardGame_backend_Express/blob/master/src/api/controllers/gameController.ts
 ```
 
 edit gameController.ts in section:
@@ -210,7 +210,7 @@ Do not change variable:
 Start backend
 
 ```sh
-cd BoardGame_backend_ExpressJS_PJA
+cd BoardGame_backend_Express
 npm start
 ```
 
@@ -273,7 +273,7 @@ See `LICENSE` for more information.
 
 ## Contact
 
-Dominik Stec - dominikstec@devapp.tools
+Dominik Stec - dccstcc@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -300,16 +300,16 @@ Project URL:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/BoardGame_backend_ExpressJS_PJA.svg?style=for-the-badge
-[contributors-url]: https://github.com/dominik-stec/BoardGame_backend_ExpressJS_PJA/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dominik-stec/BoardGame_backend_ExpressJS_PJA.svg?style=for-the-badge
-[forks-url]: https://github.com/dominik-stec/BoardGame_backend_ExpressJS_PJA/network/members
-[stars-shield]: https://img.shields.io/github/stars/dominik-stec/BoardGame_backend_ExpressJS_PJA.svg?style=for-the-badge
-[stars-url]: https://github.com/dominik-stec/BoardGame_backend_ExpressJS_PJA/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dominik-stec/BoardGame_backend_ExpressJS_PJA.svg?style=for-the-badge
-[issues-url]: https://github.com/dominik-stec/BoardGame_backend_ExpressJS_PJA/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/BoardGame_backend_Express.svg?style=for-the-badge
+[contributors-url]: https://github.com/dominik-stec/BoardGame_backend_Express/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dominik-stec/BoardGame_backend_Express.svg?style=for-the-badge
+[forks-url]: https://github.com/dominik-stec/BoardGame_backend_Express/network/members
+[stars-shield]: https://img.shields.io/github/stars/dominik-stec/BoardGame_backend_Express.svg?style=for-the-badge
+[stars-url]: https://github.com/dominik-stec/BoardGame_backend_Express/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dominik-stec/BoardGame_backend_Express.svg?style=for-the-badge
+[issues-url]: https://github.com/dominik-stec/BoardGame_backend_Express/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dominik-stec/BoardGame_backend_ExpressJS_PJA/blob/master/LICENSE.md
+[license-url]: https://github.com/dominik-stec/BoardGame_backend_Express/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
