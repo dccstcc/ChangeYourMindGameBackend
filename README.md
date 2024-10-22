@@ -279,7 +279,7 @@ Dominik Stec - dccstcc@gmail.com
 
 Project URL:
 <br />
-`https://github.com/dominik-stec/BoardGame_backend_ExpressJS_PJA.git`
+`https://github.com/dominik-stec/BoardGame_backend_Express.git`
 
 <!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
